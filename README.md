@@ -1,0 +1,1 @@
+VS_Ukazka_Git
